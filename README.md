@@ -1,4 +1,4 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Tanya Mahrauliya</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
 
