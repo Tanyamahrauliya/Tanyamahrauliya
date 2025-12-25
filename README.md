@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development (Node.js / Express.js / Python & Django / Flask),Databases (SQL/No SQL)**
 
-- 📫 How to reach me **cashbread007@gmail.com**
+- 📫 How to reach me **tanyamahrauliya79@gmail.com**
 
 - ⚡ Fun fact **I am funny😉**
 
